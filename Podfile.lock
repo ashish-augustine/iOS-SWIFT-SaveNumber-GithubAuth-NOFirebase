@@ -1,0 +1,81 @@
+PODS:
+  - Alamofire (5.9.1)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - ProgressHUD (13.8.6)
+  - ReactiveSwift (7.1.1)
+  - RxCocoa (6.6.0):
+    - RxRelay (= 6.6.0)
+    - RxSwift (= 6.6.0)
+  - RxRelay (6.6.0):
+    - RxSwift (= 6.6.0)
+  - RxSwift (6.6.0)
+  - SwifterSwift (6.2.0):
+    - SwifterSwift/AppKit (= 6.2.0)
+    - SwifterSwift/Combine (= 6.2.0)
+    - SwifterSwift/CoreAnimation (= 6.2.0)
+    - SwifterSwift/CoreGraphics (= 6.2.0)
+    - SwifterSwift/CoreLocation (= 6.2.0)
+    - SwifterSwift/CryptoKit (= 6.2.0)
+    - SwifterSwift/Dispatch (= 6.2.0)
+    - SwifterSwift/Foundation (= 6.2.0)
+    - SwifterSwift/HealthKit (= 6.2.0)
+    - SwifterSwift/MapKit (= 6.2.0)
+    - SwifterSwift/SceneKit (= 6.2.0)
+    - SwifterSwift/SpriteKit (= 6.2.0)
+    - SwifterSwift/StoreKit (= 6.2.0)
+    - SwifterSwift/SwiftStdlib (= 6.2.0)
+    - SwifterSwift/UIKit (= 6.2.0)
+    - SwifterSwift/WebKit (= 6.2.0)
+  - SwifterSwift/AppKit (6.2.0)
+  - SwifterSwift/Combine (6.2.0)
+  - SwifterSwift/CoreAnimation (6.2.0)
+  - SwifterSwift/CoreGraphics (6.2.0)
+  - SwifterSwift/CoreLocation (6.2.0)
+  - SwifterSwift/CryptoKit (6.2.0)
+  - SwifterSwift/Dispatch (6.2.0)
+  - SwifterSwift/Foundation (6.2.0)
+  - SwifterSwift/HealthKit (6.2.0)
+  - SwifterSwift/MapKit (6.2.0)
+  - SwifterSwift/SceneKit (6.2.0)
+  - SwifterSwift/SpriteKit (6.2.0)
+  - SwifterSwift/StoreKit (6.2.0)
+  - SwifterSwift/SwiftStdlib (6.2.0)
+  - SwifterSwift/UIKit (6.2.0)
+  - SwifterSwift/WebKit (6.2.0)
+
+DEPENDENCIES:
+  - Moya/RxSwift
+  - ProgressHUD (~> 13.8.6)
+  - ReactiveSwift
+  - RxCocoa
+  - RxSwift
+  - SwifterSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - ProgressHUD
+    - ReactiveSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  ProgressHUD: ee8924300accca88bfa39f6350f757c1c869a69c
+  ReactiveSwift: 477d3f5bc2eb3cbbba1c1636505752b83bef93b1
+  RxCocoa: 44a80de90e25b739b5aeaae3c8c371a32e3343cc
+  RxRelay: 45eaa5db8ee4fb50e5ebd57deec0159e97fa51e6
+  RxSwift: a4b44f7d24599f674deebd1818eab82e58410632
+  SwifterSwift: dd00873fb09cde19da88bdb2878f9fe70fe27b0f
+
+PODFILE CHECKSUM: 4f9e717cb38170811efc88535fa6d8b445ef357b
+
+COCOAPODS: 1.15.2
